@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @josjo99
 - 👀 I’m interested in Software,Security and Books
-- 🌱 I’m currently learning React and Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Practicing React, Node.js, Babylonjs and Django
+- 📫 You can reach me on Linkedin: https://www.linkedin.com/in/joshua-john-gigi/
 
 <!---
 josjo99/josjo99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
