@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josjo99
 - 👀 I’m interested in Software,Security and Books
-- 🌱 Practicing React, Node.js, Babylonjs and Django
+- 🌱 Practicing React, Node.js, Babylonjs, Django and Amazon Web Services
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/joshua-john-gigi/
 
 <!---
